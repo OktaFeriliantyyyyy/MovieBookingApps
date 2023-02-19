@@ -1,10 +1,3 @@
-//
-//  PosterData.swift
-//  MovieBooking
-//
-//  Created by Willie Yam on 2022-08-16.
-//
-
 import Foundation
 
 var posters1: [String] = ["poster1", "poster2", "poster3", "poster4", "poster5", "poster6"]
