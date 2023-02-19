@@ -1,10 +1,3 @@
-//
-//  CustomSearchBar.swift
-//  MovieBooking
-//
-//  Created by Willie Yam on 2022-08-18.
-//
-
 import SwiftUI
 
 struct CustomSearchBar: View {
